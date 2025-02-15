@@ -10,9 +10,9 @@
 - **Classical vs. Quantum Mechanics**:  
   - *Classical*: Determines $ x(t) $ via Newton’s laws ($ F = ma $).  
   - *Quantum*: Seeks the wave function \( \Psi(x,t) \), governed by the **Schrödinger equation**:  
-    $$
+    '''math
     i\hbar \frac{\partial \Psi}{\partial t} = -\frac{\hbar^2}{2m} \frac{\partial^2 \Psi}{\partial x^2} + V \Psi
-    $$  
+    ''' 
     Here, \( \hbar = h/2\pi \) (reduced Planck’s constant).  
 
 - **Role of Initial Conditions**:  
